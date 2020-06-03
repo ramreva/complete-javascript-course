@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.colorTheme": "Slack Theme Dark Mode",
+    "workbench.preferredDarkColorTheme": "Monokai",
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.tree.indent": 24
+}

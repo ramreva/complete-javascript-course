@@ -8,8 +8,115 @@
 </head>
 <body>
     <h1>Asynchronous JavaScript</h1>
+    <p id="inject">.</p>
     <script>
-        
-    </script>
+
+        // Promises - Creation and usage
+/*
+        const getIDs = new Promise((resolve, reject) => {
+            setTimeout(() => {
+                resolve([523, 883, 432, 974]);
+            }, 1500);
+        });
+
+        const getRecipe = recID => {
+            return new Promise((resolve, reject) => {
+                setTimeout(ID => {
+                    const recipe = {
+                        title: 'Fresh Tomato pasta',
+                        publisher: 'Jonas'
+                    };
+                    resolve(`${ID}: ${recipe.title}`);
+                }, 1500, recID)
+            });
+        };
+
+        const getRelated = publisher => {
+            return new Promise((resolve, reject) => {
+                setTimeout(pub => {
+                    const recipe = {
+                    title: 'Italian Pizza',
+                    publisher: 'Jonas'
+                    };
+                    resolve(`${pub}: ${recipe.title}`);
+                }, 1500, publisher);
+            });
+        };
+
+    /* The code in this comment block works.
+    It has only been commented to demonstrate
+    Async/Await below
+
+        getIDs
+        .then(IDs => {
+            console.log(IDs);
+            return getRecipe(IDs[2]);
+        })
+        .then(recipe => {
+            console.log(recipe);
+            return getRelated('Jonas');
+        })
+        .then(recipe => console.log(recipe))
+        .catch(error => console.log(error));
+    */
+
+    // Promises consumption using Async/Await
+/*
+    async function getRecipesAW() {
+        const IDs = await getIDs;
+        console.log(IDs);
+        const recipe = await getRecipe(IDs[2]);
+        console.log(recipe);
+        const related = await getRelated('Jonas');
+        console.log(related);
+
+        return recipe
+        // await holds execution until the
+        // promise is fulfilled
+    }
+    getRecipesAW().then(result => console.log(result));
+*/
+
+//////// FETCH - WEBAPI
+// Getting the weather for a location from Metaweather.com
+
+/*
+
+function getWeather(woeid) {
+    fetch(`https://crossorigin.me/https://www.metaweather.com/api/location/${woeid}`)
+        .then(result => {
+            console.log(result);
+            return result.json();
+        })
+        .then(data => {
+            const today = data.consoliated_weather[0];
+            console.log(`Temperature in ${data.title} is between ${today.min_temp} & ${today.max_temp}`);
+        })
+        .catch(error => console.log(error));
+}
+// TODO - this is not working fine, need to know why
+getWeather(2295420); // Bangalore's woeid
+
+*/
+
+const key = 'b164761e68b408c9';
+var baseUrl = 'https://coinlib.io/api/v1';
+var btcData = `${baseUrl}/coin?key=${key}&pref=USD&symbol=`;
+
+    async function getPrice(symbolKey) {
+        try {
+            const result = await fetch(`${btcData}${symbolKey}`);
+            const data = await result.json();
+            console.log(data.price);
+            // return data;
+        } catch (e) {
+            console.log(e);
+        }
+    }
+
+    getPrice('BTC');
+
+
+</script>
 </body>
 </html>

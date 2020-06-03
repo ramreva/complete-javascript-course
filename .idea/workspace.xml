@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3567c7bf-38e3-42c9-a641-0da3eef443e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/codingchallenge7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/codingchallenge7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/defaultparameters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/defaultparameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/maps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/rest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6/starter/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-forkify/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-forkify/src/js/models/Recipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-JS-basics/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-JS-basics/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-how-JS-works/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-how-JS-works/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-DOM-pig-game/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/4-DOM-pig-game/starter/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-DOM-pig-game/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-DOM-pig-game/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-advanced-JS/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-advanced-JS/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-advanced-JS/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/5-advanced-JS/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ES6/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ES6/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-asynchronous-JS/starter/asynchronous.html" beforeDir="false" afterPath="$PROJECT_DIR$/8-asynchronous-JS/starter/asynchronous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/img/test-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/dist/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/models/Likes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/models/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/models/Recipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/models/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/views/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/views/likesView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/views/listView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/views/recipeView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/src/js/views/searchView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/final/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/dist/img/test-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-forkify/starter/src/js/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b8d9DHUJ1dCFIlMa5A8tD1Jbn1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nram\OneDrive\Desktop\complete-javascript-course\9-forkify\starter\src\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4-DOM-pig-game/starter/app.js" working-dir="$PROJECT_DIR$/4-DOM-pig-game/starter">
+      <method v="2" />
+    </configuration>
+    <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2-JS-basics/starter/functions.js" working-dir="$PROJECT_DIR$/2-JS-basics/starter">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/9-forkify/starter/src/js/index.js" working-dir="$PROJECT_DIR$/9-forkify/starter/src/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="loops.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2-JS-basics/starter/loops.js" working-dir="$PROJECT_DIR$/2-JS-basics/starter">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3-how-JS-works/starter/script.js" working-dir="$PROJECT_DIR$/3-how-JS-works/starter">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3567c7bf-38e3-42c9-a641-0da3eef443e7" name="Default Changelist" comment="" />
+      <created>1588017501289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588017501289</updated>
+      <workItem from="1588018443651" duration="4436000" />
+      <workItem from="1588047726773" duration="31941000" />
+      <workItem from="1588196151970" duration="696000" />
+      <workItem from="1588450207932" duration="6431000" />
+      <workItem from="1588678271581" duration="4273000" />
+      <workItem from="1588722394022" duration="7601000" />
+      <workItem from="1588766252707" duration="25000" />
+      <workItem from="1588787658305" duration="2443000" />
+      <workItem from="1588973533952" duration="405000" />
+      <workItem from="1589195009293" duration="1898000" />
+      <workItem from="1589196951904" duration="7295000" />
+      <workItem from="1589398737984" duration="2603000" />
+      <workItem from="1590646989802" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="208" key="#Notifications" timestamp="1588018691947">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="526" y="208" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1588018691947" />
+    <state x="351" y="4" key="#app.js" timestamp="1588453315638">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="351" y="4" key="#app.js/0.0.1280.689@0.0.1280.689" timestamp="1588453315638" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588718220025">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1588718220025" />
+    <state x="351" y="4" key="#index.js" timestamp="1588973894047">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="351" y="4" key="#index.js/0.0.1280.689@0.0.1280.689" timestamp="1588973894047" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1588678355686">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1588678355686" />
+    <state width="441" height="562" key="GridCell.Tab.0.bottom" timestamp="1588789147729">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state width="435" height="562" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588453263396" />
+    <state width="441" height="562" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1588789147729" />
+    <state width="441" height="562" key="GridCell.Tab.0.center" timestamp="1588789147728">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state width="435" height="562" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588453263396" />
+    <state width="441" height="562" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1588789147728" />
+    <state width="441" height="562" key="GridCell.Tab.0.left" timestamp="1588789147728">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state width="435" height="562" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588453263396" />
+    <state width="441" height="562" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1588789147728" />
+    <state width="441" height="562" key="GridCell.Tab.0.right" timestamp="1588789147729">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state width="435" height="562" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588453263396" />
+    <state width="441" height="562" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1588789147729" />
+    <state width="619" height="210" key="GridCell.Tab.1.bottom" timestamp="1588195602522">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588195602522" />
+    <state width="619" height="210" key="GridCell.Tab.1.center" timestamp="1588195602521">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1588195602521" />
+    <state width="619" height="210" key="GridCell.Tab.1.left" timestamp="1588195602521">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1588195602521" />
+    <state width="619" height="210" key="GridCell.Tab.1.right" timestamp="1588195602522">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1588195602522" />
+    <state width="619" height="210" key="GridCell.Tab.2.bottom" timestamp="1588195602524">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588195602524" />
+    <state width="619" height="210" key="GridCell.Tab.2.center" timestamp="1588195602523">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1588195602523" />
+    <state width="619" height="210" key="GridCell.Tab.2.left" timestamp="1588195602522">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1588195602522" />
+    <state width="619" height="210" key="GridCell.Tab.2.right" timestamp="1588195602523">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1588195602523" />
+    <state width="619" height="210" key="GridCell.Tab.3.bottom" timestamp="1588195602525">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.3.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588195602525" />
+    <state width="619" height="210" key="GridCell.Tab.3.center" timestamp="1588195602524">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.3.center/0.0.1280.689@0.0.1280.689" timestamp="1588195602524" />
+    <state width="619" height="210" key="GridCell.Tab.3.left" timestamp="1588195602524">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.3.left/0.0.1280.689@0.0.1280.689" timestamp="1588195602524" />
+    <state width="619" height="210" key="GridCell.Tab.3.right" timestamp="1588195602524">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="619" height="210" key="GridCell.Tab.3.right/0.0.1280.689@0.0.1280.689" timestamp="1588195602524" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588018593033">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1588018593033" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1588453301925">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1588453301925" />
+  </component>
+</project>
